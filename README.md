@@ -1,12 +1,12 @@
 @lblod/ember-vo-webuniversum-widget
 ==============================================================================
 
-[Short description of the addon.]
+Ember addon to add widgets from [the webuniversum components of Vlaanderen](https://overheid.vlaanderen.be/webuniversum/alle-front-end-componenten) like a header and footer.
 
 Installation
 ------------------------------------------------------------------------------
 
-```
+```bash
 ember install @lblod/ember-vo-webuniversum-widget
 ```
 
@@ -14,7 +14,9 @@ ember install @lblod/ember-vo-webuniversum-widget
 Usage
 ------------------------------------------------------------------------------
 
-[Longer description of how to use the addon in apps.]
+```hbs
+{{wu-widget src="//widgets.vlaanderen.be/widget/live/03495830948230495848582"}}
+```
 
 
 Contributing
