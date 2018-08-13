@@ -1,13 +1,16 @@
 {
   "name": "@lblod/ember-vo-webuniversum-widget",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember addon to insert widgets of Webuniversum Vlaanderen.",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lblod/ember-vo-webuniversum-widget.git"
+  },
   "license": "MIT",
-  "author": "",
+  "author": "redpencil.io",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -56,5 +59,9 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/lblod/ember-vo-webuniversum-widget/issues"
+  },
+  "homepage": "https://github.com/lblod/ember-vo-webuniversum-widget#readme"
 }
