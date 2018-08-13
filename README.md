@@ -1,4 +1,4 @@
-ember-vo-webuniversum-widget
+@lblod/ember-vo-webuniversum-widget
 ==============================================================================
 
 [Short description of the addon.]
@@ -7,7 +7,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install ember-vo-webuniversum-widget
+ember install @lblod/ember-vo-webuniversum-widget
 ```
 
 

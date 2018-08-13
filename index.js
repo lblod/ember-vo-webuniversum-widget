@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-vo-webuniversum-widget'
+  name: '@lblod/ember-vo-webuniversum-widget'
 };
