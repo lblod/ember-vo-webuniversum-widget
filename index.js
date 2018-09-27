@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  name: '@lblod/ember-vo-webuniversum-widget',
+  name: require('./package').name,
   included: function included(app) {
     this._super.included.apply(this, app);
     app.import('node_modules/postscribe/dist/postscribe.js', {
