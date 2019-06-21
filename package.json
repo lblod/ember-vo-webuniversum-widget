@@ -1,6 +1,6 @@
 {
   "name": "@lblod/ember-vo-webuniversum-widget",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Ember addon to insert widgets of Webuniversum Vlaanderen.",
   "keywords": [
     "ember-addon"
